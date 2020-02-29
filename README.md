@@ -1,2 +1,2 @@
-# TP-Visualisation
+# Projet Visualisation
 Visualisation des données
